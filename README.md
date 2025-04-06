@@ -37,7 +37,7 @@ This is my first personal data analysis project. I explored the delivery data fr
    → Fast delivery may not guarantee high rating; platform should also consider food quality and service.
 
 ## Sample Visualization
-！[Regreesion plot](plot.png)
+！[Regression plot](plot.png)
 
 
 ## Conclusion

@@ -1,25 +1,25 @@
-# 🛵 Doordash Delivery Order Data Analysis
+#  Doordash Delivery Order Data Analysis
 
 This is my first personal data analysis project. I explored the delivery data from Doordash to understand what factors affect customer ratings and how different cities, cuisines, and delivery times perform.
 
-## 📊 Project Objective
+## Project Objective
 
 - Explore delivery performance, customer satisfaction, and cuisine popularity on the Doordash platform.
 - Find actionable insights to improve user satisfaction and platform efficiency.
 
-## 🧰 Tools Used
+## Tools Used
 
 - Python
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Jupyter Notebook
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 - 11,000+ delivery records
 - Fields include: city, cuisine, delivery time, delivery fee, review rating, etc.
 
-## 🔍 Key Analysis Sections
+## Key Analysis Sections
 
 1. **Top Cities by Order Count**  
    → Identified cities with highest order volume, plotted bar & pie charts.
@@ -36,11 +36,10 @@ This is my first personal data analysis project. I explored the delivery data fr
 5. **Insights and Suggestions**  
    → Fast delivery may not guarantee high rating; platform should also consider food quality and service.
 
-## 📈 Sample Visualization
+## Sample Visualization
+![Regression plot](<img width="731" alt="plot" src="https://github.com/user-attachments/assets/7b8b291b-5712-4e18-a80b-87c26660d3fd" />)
 
-*(Insert a screenshot of your best graph, e.g. regression plot)*
-
-## ✅ Conclusion
+## Conclusion
 
 - High delivery speed doesn't significantly improve customer ratings.
 - Some high-rated cuisines are underrepresented — marketing opportunity.
